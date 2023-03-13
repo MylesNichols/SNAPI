@@ -11,6 +11,7 @@ This application is a Social Network API application. This application uses Mong
 ## Usage:
 ![mongo-sc](https://user-images.githubusercontent.com/111784726/224767295-3bdbd6ac-65e6-4cef-9687-febf7e047723.png)
 ![insomnia-sc](https://user-images.githubusercontent.com/111784726/224767335-d967ecd9-936e-4044-a112-292725124a9e.png)
+[Untitled_ Mar 13 2023 12_24 PM.webm](https://user-images.githubusercontent.com/111784726/224767524-78d5133e-1caa-4a98-9ebb-dda32bea77e5.webm)
 
 
 ## links
